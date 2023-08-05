@@ -1,0 +1,1003 @@
+Absolute humidity (or Saturation value) The maximum amount of 
+water vapor, which could be present in 1 m³ of the air at any given 
+temperature, is called absolute humidity.
+Absolute magnitude A classification scheme, which compensates 
+for the distance, differences to stars. It calculates the brightness 
+that stars would appear to have if they were all at a defined, 
+standard distance of 10 parsec
+Absolute scale Temperature scale set so that zero is at the 
+theoretical lowest temperature possible. This would occur when all 
+random motion of molecules has ceased
+Absolute zero The theoretical lowest temperature possible, which 
+occurs when all random motion of molecules has ceased
+Acceleration due to gravity The acceleration produced in a body 
+due to the earth's attraction is called acceleration due to gravity. It 
+is denoted by the letter g. Its SI unit is m/s². On the surface of the 
+earth, its average value is 9.8m/s². The value of g on the surface of 
+the earth increases in going towards the poles from the equator. 
+The acceleration due to gravity of the earth decreases with altitude 
+and with depth inside the earth. The value of g at the center of the 
+earth is zero.
+Acceleration The rate of change of velocity of a moving object is 
+called its acceleration. The SI units of acceleration are m / s². By 
+definition, this change in velocity can result from a change in speed, 
+a change in direction, or a combination of changes in speed and 
+direction
+Adiabatic cooling The decrease in temperature of an expanding gas 
+that involves no additional heat flowing out of the gas. It is the 
+cooling from the energy lost by expansion
+Adiabatic heating The increase in temperature of compressed gas 
+that involves no additional heat flowing into the gas. It is heating 
+from the energy gained by compression
+Air mass A large, more or less uniform body of air with nearly the 
+same temperature and moisture conditions throughout
+Allotropic forms Elements that can have several different structures 
+with different physical properties-for example, graphite and 
+diamond are two allotropic forms of carbon
+Alpha particle The nucleus of a helium atom (two protons and two 
+neutrons) emitted as radiation from a decaying heavy nucleus; also 
+known as an alpha ray
+Alternating current An electric current that first moves one direction, 
+then the opposite direction with a regular frequency
+Amp Unit of electric current. It is equivalent to coulomb/sec.
+Ampere Full name of the unit Amp
+Amplitude (of waves) The maximum displacement of particles of 
+the medium from their mean positions during the propagation of a 
+wave is called the amplitude of the wave.
+Amplitude (of an oscillation) The maximum displacement of a body 
+from its mean position during an oscillatory motion is called the 
+amplitude of oscillation.
+Angle of incidence Angle of an incident (arriving) ray or particle to a 
+surface; measured from a line perpendicular to the surface (the 
+normal)
+Angle of reflection Angle of a reflected ray or particle from a 
+surface; measured from a line perpendicular to the surface (the 
+normal)
+Angular Acceleration The rate of change of angular velocity of a 
+body moving along a circular path is called its angular acceleration. 
+Angular acceleration is denoted by a.
+Angular Displacement The angle described at the center of the 
+circle by a moving body along a circular path is called angular 
+displacement. It is measured in radians.
+Angular Momentum Quantum Number From quantum mechanics 
+model of the atom, one of four descriptions of the energy state of 
+an electron wave. The quantum number describes the energy 
+sublevels of electrons within the main energy levels of an atom
+Angular Velocity The rate of change of angular displacement is 
+called angular velocity. 
+Astronomical unit The radius of the earth's orbit is defined as one 
+astronomical unit (A.U.)
+Atom The smallest unit of an element that can exist alone or in 
+combination with other elements
+Atomic mass unit Relative mass unit (u) of an isotope based on the 
+standard of the carbon-12 isotope, which is defined as a mass of 
+exactly 12.00 u; one atomic mass unit (I u) is 1/12 the mass of a 
+carbon-12 atom
+Atomic number The number of protons in the nucleus of an atom
+Atomic Weight Weighted average of the masses of stable isotopes 
+of an element as they occur in nature, based on the abundance of 
+each isotope of the element and the atomic mass of the isotope 
+compared to carbon-12
+Avogadro's Number The number of carbon-12 atoms in exactly 
+12.00 g of C that is 6.02 x 10^23 atoms or other chemical units. It is 
+the number of chemical units in one mole of a substance
+Axis The imaginary line about which a planet or other object rotates
+Background Radiation Ionizing radiation (alpha, beta, gamma, etc.) 
+from natural sources
+Balanced Forces When a number of forces act on a body, and the 
+resultant force is zero, then the forces are said to be resultant 
+forces.
+Balmer series A set of four line spectra, narrow lines of color 
+emitted by hydrogen atom electrons as they drop from excited 
+states to the ground state
+Barometer An instrument that measures atmospheric pressure, 
+used in weather forecasting and in determining elevation above sea 
+level
+Beat Rhythmic increases and decreases of volume from 
+constructive and destructive interference between two sound waves 
+of slightly different frequencies
+Beta particle High-energy electron emitted as ionizing radiation 
+from a decaying nucleus; also known as a beta ray
+Big bang theory Current model of galactic evolution in which the 
+universe was created from an intense and brilliant explosion from a 
+primeval fireball
+Binding energy The energy required to break a nucleus into its 
+constituent protons and neutrons; also the energy equivalent 
+released when a nucleus is formed
+Black hole The theoretical remaining core of a supernova that is so 
+dense that even light cannot escape
+Blackbody radiation Electromagnetic radiation emitted by an ideal 
+material (the blackbody) that perfectly absorbs and perfectly emits 
+radiation
+Bohr model Model of the structure of the atom that attempted to 
+correct the deficiencies of the solar system model and account for 
+the Balmer series
+Boiling point The temperature at which a phase change of liquid to 
+gas takes place through boiling. It is the same temperature as the 
+condensation point
+Boundary The division between two regions of differing physical 
+properties
+British thermal unit The amount of energy or heat needed to 
+increase the temperature of one pound of water one degree 
+Fahrenheit (abbreviated Btu)
+Cathode rays Negatively charged particles (electrons) that are 
+emitted from a negative terminal in an evacuated glass tube
+Celsius scale of temperature In the Celsius scale of temperature, 
+the ice-point is taken as taken as the lower fixed point (0 deg C ) 
+and the steam-point is taken as the upper fixed point (100 deg C). 
+The interval between the ice point and steam point is divided into 
+100 equal divisions. Thus, the unit division on this scale is 1degC. 
+This scale was earlier called the centigrade scale. 1 deg C = 9/5 
+deg F.
+Centigrade Alternate name for the Celsius scale
+Centrifugal force An apparent outward force on an object following 
+a circular path that. This force is a consequence of the third law of 
+motion
+Centripetal force The force required to pull an object out of its 
+natural straight-line path and into a circular path; centripetal means
+Chain reaction A self-sustaining reaction where some of the 
+products are able to produce more reactions of the same kind; in a 
+nuclear chain reaction neutrons are the products that produce more 
+nuclear reactions in a self-sustaining series
+Circular Motion The motion of a body along a circular path is called 
+circular motion.
+Coefficient of cubical expansion The increase in volume of a 
+substance per unit original volume per degree rise in temperature is 
+called its coefficient of cubical expansion. The SI unit of coefficient 
+of cubical expansion is K1.
+Coefficient of linear expansion The increase in length per unit 
+original length per degree rise in temperature is called the 
+coefficient of linear expansion. The SI unit of the coefficient of linear 
+expansion is K-1.
+Compression A part of a longitudinal wave in which the density of 
+the particles of the medium is higher than the normal density is 
+called a compression.
+Compressive stress A force that tends to compress the surface as 
+the earth's plates move into each other
+Condensation (sound) A compression of gas molecules; a pulse of 
+increased density and pressure that moves through the air at the 
+speed of sound
+Condensation (water vapor) Where more vapor or gas molecules 
+are returning to the liquid state than are evaporating
+Condensation nuclei Tiny particles such as tiny dust, smoke, soot, 
+and salt crystals that are suspended in the air on which water 
+condenses condensation point the temperature at which a gas or 
+vapor changes back to a liquid
+Condensation point the temperature at which a gas or vapor 
+changes back to a liquid
+Conduction The transfer of heat from a region of higher 
+temperature to a region of lower temperature by increased kinetic 
+energy moving from molecule to molecule
+Constructive interference The condition in which two waves arriving 
+at the same place, at the same time and in phase, add amplitudes 
+to create a new wave
+Control rods Rods inserted between fuel rods in a nuclear reactor 
+to absorb neutrons and thus control the rate of the nuclear chain 
+reaction
+Convection Transfer of heat from a region of higher temperature to 
+a region of lower temperature by the displacement of high-energy 
+molecules-for example, the displacement of warmer, less dense air 
+(higher kinetic energy) by cooler, denser air (lower kinetic energy)
+Conventional current Opposite to electron current-that is, considers 
+an electric current to consist of a drift of positive charges that flow 
+from the positive terminal to the negative terminal of a battery
+Coulomb Unit used to measure quantity of electric charge; 
+equivalent to the charge resulting from the transfer of 6.24 billion 
+particles such as the electron
+Coulomb's law Relationship between charge, distance, and 
+magnitude of the electrical force between two bodies
+Covalent bond A chemical bond formed by the sharing of a pair of 
+electrons
+Covalent compound Chemical compound held together by a 
+covalent bond or bonds
+Crest The point of maximum positive displacement on a transverse 
+wave is called a crest.
+Critical angle Limit to the angle of incidence when all light rays are 
+reflected internally
+Critical mass Mass of fissionable material needed to sustain a
+chain reaction
+Curvilinear Motion The motion of a body along a curved path is 
+called curvilinear motion.
+Cycle A complete vibration
+De-acceleration See retardation
+Decibel scale A nonlinear scale of loudness based on the ratio of 
+the intensity level of a sound to the intensity at the threshold of 
+hearing
+Destructive interference The condition in which two waves arriving 
+at the same point at the same time out of phase add amplitudes to 
+create zero total disturbance. (also see constructive interference
+Dew point temperature The temperature at which condensation 
+begins
+Dew Condensation of water vapor into droplets of liquid on surfaces
+Diffraction The bending of light around the edge of an opaque 
+object
+Diffuse reflection Light rays reflected in many random directions, as 
+opposed to the parallel rays reflected from a perfectly smooth 
+surface such as a mirror
+Direct current An electrical current that always moves in one 
+direction
+Direct proportion When two variables increase or decrease together 
+in the same ratio (at the same rate)
+Dispersion The effect of spreading colors of light into a spectrum 
+with a material that has an index of refraction that varies with 
+wavelength
+Displacement The change in the position of an object in a particular 
+direction is called displacement. Displacement may also be defined 
+as the shortest distance between the initial and final position of a 
+moving body. It is a vector quantity.
+Distance The actual length of the path traveled by a body 
+irrespective of the direction is called the distance traveled. It is a 
+scalar quantity.
+Doppler effect An apparent shift in the frequency of sound or light 
+due to relative motion between the source of the sound or light and 
+the observer
+Echo A reflected sound that can be distinguished from the original 
+sound, which usually arrives 0.1 sec or more after the original 
+sound
+Elastic strain An adjustment to stress in which materials recover 
+their original shape after a stress is released
+Electric circuit Consists of a voltage source that maintains an 
+electrical potential, a continuous conducting path for a current to 
+follow, and a device where work is done by the electrical potential; 
+a switch in the circuit is used to complete or interrupt the 
+conducting path
+Electric current The flow of electric charge electric field force field 
+produced by an electrical charge
+Electric field lines A map of an electric field representing the 
+direction of the force that a test charge would experience; the 
+direction of an electric field shown by lines of force
+Electric generator A mechanical device that uses wire loops 
+rotating in a magnetic field to produce electromagnetic induction in 
+order to generate electricity
+Electric potential energy Potential energy due to the position of a 
+charge near other charges
+Electrical conductors Materials that have electrons that are free to 
+move throughout the material; for example, metals
+Electrical energy A form of energy from electromagnetic 
+interactions; one of five forms of energy-mechanical, chemical, 
+radiant, electrical, and nuclear
+Electrical force A fundamental force that results from the interaction 
+of electrical charge and is billions and billions of times stronger than 
+the gravitational force; sometimes called the
+Electrical insulators Electrical nonconductors, or materials that 
+obstruct the flow of electric current
+Electrical nonconductors Materials that have electrons that are not 
+moved easily within the material-for example, rubber; electrical 
+nonconductors are also called electrical insulators
+Electrical resistance The property of opposing or reducing electric 
+current
+Electrolyte Water solution of ionic substances that conducts an 
+electric current
+Electromagnet A magnet formed by a solenoid that can be turned 
+on and off by turning the current on and off
+Electromagnetic force One of four fundamental forces; the force of 
+attraction or repulsion between two charged particles
+Electromagnetic induction Process in which current is induced by 
+moving a loop of wire in a magnetic field or by changing the 
+magnetic field
+Electromagnetic waves The waves which are due to oscillating 
+electrical and magnetic fields and do not need any material medium 
+for their propagation are called electromagnetic waves. These 
+waves can, however, travel through material medium also. Light 
+waves, radio waves are examples of electromagnetic waves. All 
+electromagnetic waves travel in vacuum with a speed of 3×10 8
+m/s.
+Electron configuration The arrangement of electrons in orbits and 
+sub-orbits about the nucleus of an atom
+Electron current Opposite to conventional current; that is, considers 
+electric current to consist of a drift of negative charges that flows 
+from the negative terminal to the positive terminal of a battery
+Electron pair A pair of electrons with different spin quantum 
+numbers that may occupy an orbital
+Electron volt The energy gained by an electron moving across a 
+potential difference of one volt; equivalent to 1.60 x 10^-19 Joules
+Electron Subatomic particle that has the smallest negative charge 
+possible and usually found in an orbital of an atom, but gained or 
+lost when atoms become ions
+Electro negativity The comparative ability of atoms of an element to 
+attract bonding electrons
+Electrostatic charge An accumulated electric charge on an object 
+from a surplus or deficiency of electrons; also called
+Element A pure chemical substance that cannot be broken down 
+into anything simpler by chemical or physical means; there are over 
+100 known elements, the fundamental materials of which all matter 
+is made
+Energy The capacity of a body to do work is called its energy. 
+Energy is a scalar quantity. The SI unit of energy is Joule.
+Escape Velocity The minimum velocity with which an object must 
+be thrown upwards so as to overcome the gravitational pull and 
+escape into space, is called escape velocity (V esc ). The escape 
+velocity depends upon the mass and radius of the planet/star. It 
+does not depend upon the mass of the body thrown up. The escape 
+velocity of earth is given by.
+Evaporation Process of more molecules leaving a liquid for the 
+gaseous state than returning from the gas to the liquid. It can occur 
+at any given temperature from the surface of a liquid. Evaporation 
+takes place only from the surface of the liquid. Evaporation causes 
+cooling. Evaporation is faster if the surface of the liquid is large, the 
+temperature is higher and the surrounding atmosphere does not 
+contain a large amount of vapor of the liquid.
+Fahrenheit scale of temperature On the Fahrenheit scale, the ice 
+point, the ice point (lower fixed point) is taken as 32? F and the 
+steam point (upper fixed point) is taken as 212 deg F. The interval 
+between these two points is divided into 180 equal divisions. Thus, 
+unit division on the Fahrenheit scale is 1deg F. The temperatures 
+on the Celsius scale and the Fahrenheit scale are related by the 
+relationship, C/100 = (F - 32) / 180. The temperature of a normal 
+healthy person is 37 deg C or 98.6 deg F.
+First law of motion Every object remains at rest or in a state of 
+uniform straight-line motion unless acted on by an unbalanced 
+force
+Fluids Matter that has the ability to flow or be poured; the individual 
+molecules of a fluid are able to move, rolling over or by one another
+Force Force is a push or pull which tends to change the state of 
+rest or of uniform motion , the direction of motion, or the shape and
+size of a body. Force is a vector quantity. The SI unit of force is 
+Newton, denoted by N. One N is the force which when acts on a
+body of mass 1 kg produces an acceleration of 1 m/s².
+Force of gravitation The force with which two objects attract each 
+other by virtue of their masses is called the force of gravitation. The 
+force of attraction acts even if the two objects are not connected to 
+each other. It is an action-at-a-distance force.
+Fracture strain An adjustment to stress in which materials crack or 
+break as a result of the stress
+Free fall The motion of a body towards the earth when no other 
+force except the force of gravity acts on it is called free fall. All 
+freely falling bodies are weightless.
+Freezing point The temperature at which a phase change of liquid 
+to solid takes place; the same temperature as the melting point for 
+a given substance
+Frequency (of waves) The number of waves produced per second 
+is called its frequency.
+Frequency (of oscillations) The number of oscillations made by an 
+oscillating body per second is called the frequency.
+Friction The force that resists the motion of one surface relative to 
+another with which it is in contact. The cause of friction is that 
+surfaces, however smooth they may look to the eye, on the 
+microscopic scale have many humps and crests. Thus the actual 
+area of contact is very small indeed, and the consequent very high 
+pressure leads to local pressure welding of the surface. In motion 
+the welds are broken and remade continually.
+Fuel rod Long zirconium alloy tubes containing fissionable material 
+for use in a nuclear reactor
+Fundamental charge Smallest common charge known; the 
+magnitude of the charge of an electron and a proton, which is 1.60 
+x 10^-19 coulomb
+Fundamental frequency The lowest frequency (longest wavelength) 
+that can set up standing waves in an air column or on a string
+Fundamental properties A property that cannot be defined in 
+simpler terms other than to describe how it is measured; the 
+fundamental properties are length, mass, time, and charge
+g Symbol representing the acceleration of an object in free fall due 
+to the force of gravity; its magnitude is 9.80 m/sec^2 (32.0 ft/sec^2)
+Gamma ray Very short wavelength electromagnetic radiation 
+emitted by decaying nuclei
+Gases A phase of matter composed of molecules that are relatively 
+far apart moving freely in a constant, random motion and have 
+weak cohesive forces acting between them, resulting in the 
+characteristic indefinite shape and indefinite volume of a gas
+Gram-atomic weight The mass in grams of one mole of an element 
+that is numerically equal to its atomic weight
+Gram-formula weight The mass in grams of one mole of a 
+compound that is numerically equal to its formula weight
+Gram-molecular weight The gram-formula weight of a molecular 
+compound
+Gravitational constant G The constant G which appears in the 
+equation for Newton's law of gravitation is called the universal 
+constant of gravitation or the gravitational constant. Numerically it is 
+equal to the force of gravitation, which acts between two bodies of 
+mass 1kg each separated by a distance of 1m. The value of G is 
+6.67×10-11 Nm²/kg².
+Gravitational potential energy = mgh
+Greenhouse effect The process of increasing the temperature of 
+the lower parts of the atmosphere through redirecting energy back
+toward the surface; the absorption and reemission of infrared 
+radiation by carbon dioxide, water vapor, and a few other gases in 
+the atmosphere
+Ground state Energy state of an atom with electrons at the lowest 
+energy state possible for that atom
+Half-life The time required for one-half of the unstable nuclei in a 
+radioactive substance to decay into a new element
+Heat Heat is a form of energy, which makes a body hot or cold. 
+Heat is measured by the temperature-effect it produces in any 
+material body. The SI unit of heat is Joule( J).
+Heisenberg uncertainty principle You cannot measure both the 
+exact momentum and the exact position of a subatomic particle at 
+the same time-when the more exact of the two is known, the less 
+certain you are of the value of the other
+Hertz Unit of frequency; equivalent to one cycle per second
+Horsepower Measurement of power defined as a power rating of 
+550 ft-lb/sec
+Hypothesis A tentative explanation of a phenomenon that is 
+compatible with the data and provides a framework for 
+understanding and describing that phenomenon
+Ice-point It is the melting point of pure melting ice under 1 atm 
+pressure. The ice point is taken as the lower fixed point ( 0 deg C or 
+32 deg F ) for temperature scales.
+Impulse The impulse acting on a body is equal to the product of the 
+force acting on the body and the time for which it acts. If the force is 
+variable, the impulse is the integral of Fdt from t0 to t1. The impulse 
+of a force acting for a given time interval is equal to change in 
+momentum produced over that interval. J=m(v-u), assuming that 
+the mass m remains constant while the velocity changes from v to 
+u. The SI units of impulse are kg m/s.
+Impulsive force The force which acts on a body for a very short time 
+but produces a large change in the momentum of the body is called 
+an impulsive force.
+Incandescent Matter emitting visible light as a result of high 
+temperature for example, a light bulb, a flame from any burning 
+source, and the sun are all incandescent sources because of high 
+temperature
+Incident ray Line representing the direction of motion of incoming 
+light approaching a 
+boundary
+Index of refraction The ratio of the speed of light in a vacuum to the 
+speed of light in a material
+Inertia The property of matter that causes it to resist any change in 
+its state of rest or of uniform motion. There are three kinds of 
+inertia- inertia of rest, inertia of motion and inertia of direction. The 
+mass of a body is a measure of its inertia.
+Infrasonic Sound waves having too low a frequency to be heard by 
+the human ear; sound having a frequency of less than 20 Hz
+Insulators Materials that are poor conductors of heat-for example, 
+heat flows slowly through materials with air pockets because the 
+molecules making up air are far apart; also, materials that are poor 
+conductors of electricity, for example, glass or wood
+Intensity A measure of the energy carried by a wave
+Interference Phenomenon of light where the relative phase 
+difference between two light waves produces light or dark spots, a 
+result of light's wavelike nature
+Intermolecular forces Forces of interaction between molecules
+Internal energy Sum of all the potential energy and all the kinetic 
+energy of all the molecules of an object
+Inverse proportion The relationship in which the value of one 
+variable increases while the value of the second variable decreases 
+at the same rate (in the same ratio)
+Ionization Process of forming ions from molecules
+Ionized An atom or a particle that has a net charge because it has 
+gained or lost electrons
+Isostasy A balance or equilibrium between adjacent blocks of crust
+Isotope Atoms of an element with identical chemical properties but 
+with different masses; isotopes are atoms of the same element with 
+different numbers of neutrons
+Joule Metric unit used to measure work and energy; can also be 
+used to measure heat; equivalent to newton-meter
+Kelvin scale of temperature On this scale, the ice-point (the lower 
+fixed point) is taken as 273.15K and the (the upper fixed point) is 
+taken as 373.15K. The interval between these two points is divided 
+into 100 equal parts. Each division is equal to 1K.
+Kepler's first law Relationship in planetary motion that each planet 
+moves in an elliptical orbit, with the sun located at one focus
+Kepler's laws of planetary motion The three laws describing the 
+motion of the planets
+Kepler's second law Relationship in planetary motion that an 
+imaginary line between the sun and a planet moves over equal 
+areas of the ellipse during equal time intervals
+Kepler's third law Relationship in planetary motion that the square 
+of the period of an orbit is directly proportional to the cube of the 
+radius of the major axis of the orbit
+Kilocalorie The amount of energy required to increase the 
+temperature of one kilogram of water one degree Celsius: 
+equivalent to 1,000 calories
+Kilogram The fundamental unit of mass in the metric system of 
+measurement
+Kinetic Energy Energy possessed by a body by the virtue of its 
+motion is called kinetic energy. Kinetic energy = 1/2 m v²
+Latent heat of vaporization The heat absorbed when one gram of a 
+substance changes from the liquid phase to the gaseous phase, or 
+the heat released when one gram of gas changes from the gaseous 
+phase to the liquid phase
+Latent heat of fusion The quantity of heat required to convert one 
+unit mass of a substance from solid to the liquid state at its melting 
+point (without any change in its temperature) is called its latent heat 
+of fusion (L). The SI unit of latent heat of fusion is J kg-1.
+Latent heat Refers to the heat hidden in phase changes
+Law of Conservation of Energy The change of one form of energy 
+into another is called transformation of energy. For example, when 
+a body falls its potential energy is converted to kinetic energy.
+Law of conservation of mass Same as law of conservation of 
+matter; mass, including single atoms, is neither created nor 
+destroyed in a chemical reaction
+Law of conservation of matter Matter is neither created nor 
+destroyed in a chemical reaction
+Law of conservation of momentum The total momentum of a group 
+of interacting objects remains constant in the absence of external 
+forces
+Light-year The distance that light travels through empty space in 
+one year, approximately 9.5 x 10^11 km
+Line spectrum Narrow lines of color in an otherwise dark spectrum; 
+these lines can be used as
+Lines of force Lines drawn to make an electric field strength map, 
+with each line originating on a positive charge and ending on a
+negative charge; each line represents a path on which a charge 
+would experience a constant force and lines closer together mean a 
+stronger electric field
+Liquids A phase of matter composed of molecules that have 
+interactions stronger than those found in a gas but not strong 
+enough to keep the molecules near the equilibrium positions of a 
+solid, resulting in the characteristic definite volume but indefinite 
+shape of a liquid
+Liter A metric system unit of volume, usually used for liquids
+Longitudinal waves The wave in which the particles of the medium 
+oscillate along the direction along the direction of propagation of 
+wave is called the longitudinal wave. Sound waves are longitudinal 
+waves.
+Loudness A subjective interpretation of a sound that is related to 
+the energy of the vibrating source, related to the condition of the 
+transmitting medium, and related to the distance involved
+Luminosity The total amount of energy radiated into space each 
+second from the surface of a star
+Luminous An object or objects that produce visible light; for 
+example, the sun, stars, light bulbs, and burning materials are all 
+luminous
+Magnetic domain Tiny physical regions in permanent magnets, 
+approximately 0.01 to 1 mm, that have magnetically aligned atoms, 
+giving the domain an overall polarity
+Magnetic field Model used to describe how magnetic forces on 
+moving charges act at a distance
+Magnetic poles The ends, or sides, of a magnet about which the 
+force of magnetic attraction seems to be concentrated
+Magnetic quantum number From quantum mechanics model of the
+atom, one of four descriptions of the energy state of an electron 
+wave; this quantum number describes the energy of an electron 
+orbital as the orbital is oriented in space by an external magnetic 
+field, a kind of energy sub-sublevel
+Magnetic reversal The flipping of polarity of the earth's magnetic 
+field as the north magnetic pole and the south magnetic pole 
+exchange positions
+Magnitude The size of a measurement of a vector; scalar quantities 
+that consist of a number and unit only, no direction, for example
+Mass defect The difference between the sum of the masses of the 
+individual nucleons forming a nucleus and the actual mass of that 
+nucleus
+Mass number The sum of the number of protons and neutrons in a
+nucleus defines the mass number of an atom; used to identify 
+isotopes; for example, Uranium 238
+Mass The quantity of matter contained in a body is called its mass. 
+The SI unit of mass is kg. The mass of a body remains the same 
+everywhere. It is a measure of inertia, which means a resistance to 
+a change of motion
+Matter Anything that occupies space and has mass
+Mechanical energy The form of energy associated with machines, 
+objects in motion, and objects having potential energy that results 
+from gravity
+Mechanical wave The waves, which need a material medium for 
+their propagation, are called mechanical waves. Mechanical waves 
+are also called elastic waves. Sound waves, water waves are 
+examples of mechanical waves.
+Melting point The temperature at which a phase change of solid to 
+liquid takes place; the same temperature as the freezing point for a 
+given substance
+Metal Matter having the physical properties of conductivity, 
+malleability, ductility, and luster
+Meter The fundamental metric unit of length
+Millibar A measure of atmospheric pressure equivalent to 1.000 
+dynes per cm ^2
+Miscible fluids Fluids that can mix in any proportion
+Mixture Matter made of unlike parts that have a variable 
+composition and can be separated into their component parts by 
+physical means
+Model A mental or physical representation of something that cannot 
+be observed directly that is usually used as an aid to understanding
+Mole An amount of a substance that contains Avogadro's number 
+of atoms, ions, molecules, or any other chemical unit; a mole is 
+thus 6.02 x 10^23 atoms, ions, or other chemical units
+Momentum Momentum is considered to be a measure of the 
+quantity of motion in a body. The momentum of a body is defined 
+as the product of its mass and velocity. Its SI units are kg m /s.
+Natural frequency The frequency of vibration of an elastic object 
+that depends on the size, composition, and shape of the object
+Negative electric charge One of the two types of electric charge; 
+repels other negative charges and attracts positive charges
+Negative ion Atom or particle that has a surplus, or imbalance, of 
+electrons and, thus, a negative charge
+Net force The resulting force after all vector forces have been 
+added; if a net force is zero, all the forces have canceled each 
+other and there is not an unbalanced force
+Newton A unit of force defined as kg.m/sec^2; that is, a 1 Newton 
+force is needed to accelerate a 1 kg mass 1 m/sec^2
+Newton's first law of motion A body continues in a state of rest or of 
+uniform motion in a straight line unless it is acted upon by an 
+external (unbalanced) force.
+Newton's law of gravitation The gravitational force of attraction 
+acting between any two particles is directly proportional to the 
+product of their masses, and inversely proportional to the square of 
+the distance between them. The force of attraction acts along the 
+line joining the two particles. Real bodies having spherical 
+symmetry act as point masses with their mass assumed to be 
+concentrated at their center of mass.
+Newton's second law of motion The rate of change of momentum is 
+equal to the force applied OR the force acting on a body is directly 
+proportional to the product of its mass and acceleration produced 
+by the force in the body.
+Newton's third law of motion To every action there is an equal and 
+opposite reaction. The action and reaction act on two different 
+bodies simultaneously.
+Noise Sounds made up of groups of waves of random frequency 
+and intensity
+Non Uniform Acceleration When the velocity of a body increases by 
+unequal amounts in equal intervals of time, it is said to have nonuniform acceleration.
+Non Uniform Speed When a body travels unequal distances in 
+equal intervals of time then it is said to have non-uniform speed.
+Non Uniform Velocity When a body covers unequal distances in 
+equal intervals of time in a particular direction, or when it covers 
+equal distances in equal intervals but changes its direction it is said 
+to have non uniform velocity.
+Normal A line perpendicular to the surface of a boundary
+Nuclear energy The form of energy from reactions involving the 
+nucleus, the innermost part of an atom
+Nuclear fission Nuclear reaction of splitting a massive nucleus into 
+more stable, less massive nuclei with an accompanying release of 
+energy
+Nuclear force One of four fundamental forces, a strong force of 
+attraction that operates over very short distances between 
+subatomic particles; this force overcomes the electric repulsion of 
+protons in a nucleus and binds the nucleus 
+together
+Nuclear fusion Nuclear reaction of low mass nuclei fusing together 
+to form more stable and more massive nuclei with an
+accompanying release of energy
+Nuclear reactor Steel vessel in which a controlled chain reaction of 
+fissionable materials releases energy
+Nucleons Name used to refer to both the protons and neutrons in 
+the nucleus of an atom
+Nucleus Tiny, relatively massive and positively charged center of 
+an atom containing protons and neutrons; the small, dense center 
+of an atom numerical constant a constant without units; a number
+Ohm Unit of resistance; equivalent to volts/amps
+Ohm's law The electric potential difference is directly proportional to 
+the product of the current times the resistance
+Orbital The region of space around the nucleus of an atom where 
+an electron is likely to be found
+Origin The only point on a graph where both the x and y variables 
+have a value of zero at the same time
+Oscillatory motion The to and fro motion of a body about its mean 
+position is called oscillatory motion. Oscillatory motion is also called 
+vibratory motion. Oscillatory motion is periodic in nature.
+Pauli exclusion principle No two electrons in an atom can have the 
+same four quantum numbers; thus, a maximum of two electrons 
+can occupy a given orbital
+Pauli exclusion principle No two electrons in an atom can have the 
+same four quantum numbers; thus, a maximum of two electrons 
+can occupy a given orbital
+Pauli exclusion principle No two electrons in an atom can have the 
+same four quantum numbers; thus, a maximum of two electrons 
+can occupy a given orbital
+Pauli exclusion principle No two electrons in an atom can have the 
+same four quantum numbers; thus, a maximum of two electrons 
+can occupy a given orbital
+Pauli exclusion principle No two electrons in an atom can have the 
+same four quantum numbers; thus, a maximum of two electrons 
+can occupy a given orbital
+Period (wave):The time required for one complete cycle of a wave
+Period (wave):The time required for one complete cycle of a wave
+Period (wave):The time required for one complete cycle of a wave
+Periodic wave A wave in which the particles of the medium oscillate 
+continuously about their mean positions regularly at fixed intervals 
+of time is called a periodic wave.
+Permeability The ability to transmit fluids through openings, small 
+passageways, or gaps
+Permeability The ability to transmit fluids through openings, small 
+passageways, or gaps
+Permeability The ability to transmit fluids through openings, small 
+passageways, or gaps
+Permeability The ability to transmit fluids through openings, small 
+passageways, or gaps
+Phase change The action of a substance changing from one state 
+of matter to another; a phase change always absorbs or releases 
+internal potential energy that is not associated with a temperature 
+change
+Phase The particles in a wave, which are in the same state of 
+vibration, i.e. the same position and the same direction of motion 
+are said to be in the same phase.
+Phases of matter The different physical forms that matter can take 
+as a result of different molecular arrangements, resulting in 
+characteristics of the common phases of a solid, liquid, or gas
+Photoelectric effect The movement of electrons in some materials 
+as a result of energy acquired from absorbed light
+Photons A quanta of energy in light wave; the particle associated 
+with light
+Physical change A change of the state of a substance but not the 
+identity of the substance pitch the frequency of a sound wave
+Planck's constant Proportionality constant in the relationship 
+between the energy of vibrating molecules and their frequency of 
+vibration; a value of 6.63 x 10^-34 joule-sec
+Plasma A phase of matter; a very hot gas consisting of electrons 
+and atoms that have been stripped of their electrons because of 
+high kinetic energies
+Plastic strain An adjustment to stress in which materials become 
+molded or bent out of shape under stress and do not return to their 
+original shape after the stress is released
+Polarized Light whose constituent transverse waves are all 
+vibrating in the same plane; also known as planepolarized light
+Polaroid A film that transmits only polarized light
+Positive electric charge One of the two types of electric charge; 
+repels other positive charges and attracts negative charges
+Positive ion Atom or particle that has a net positive charge due to 
+an electron or electrons being torn away
+Potential Energy Energy possessed by a body by the virtue of its 
+position or configuration is called potential energy. There are two 
+types of potential energies, gravitational and elastic. The potential 
+energy of a body by virtue of its height from the ground is called its 
+gravitational potential energy. The potential energy of a body by 
+virtue of its configuration (shape) is called its elastic potential 
+energy.
+Power The rate of doing work is called power. Power is a scalar 
+quantity. The SI unit of power is Watt ( 1 W = 1 J/sec)
+Pressure Defined as force per unit area; for example, pounds per 
+square inch (lb/in^2)
+Primary coil Part of a transformer; a coil of wire that is connected to 
+a source of alternating 
+current
+Principle of calorimetry If no heat is lost to the surroundings and 
+there is no change of state also, then,
+Principle quantum number From quantum mechanics model of the 
+atom, one of four descriptions of the energy state of an electron 
+wave; this quantum number describes the main energy level of an 
+electron in terms of its most probable distance from the nucleus
+Projectile An object thrown into space either horizontally or at an 
+acute angle and under the action of gravity is called a projectile. 
+The path followed by a projectile is called its trajectory. The 
+horizontal distance traveled by a projectile is called its range. The 
+time taken by a projectile from the moment it is thrown until it 
+touches the ground is called its time of flight.
+Proof A measure of ethanol concentration of an alcoholic beverage; 
+proof is double the concentration by volume; for example, 50 
+percent by volume is 100 proof.
+Properties Qualities or attributes that, taken together, are usually 
+unique to an object; for example, color, texture, and size
+Proportionality constant A constant applied to a proportionality 
+statement that transforms the statement into an equation
+Pulse A wave of short duration confined to a small portion of the 
+medium at any given time is called a pulse. A pulse is also called a 
+wave pulse.
+Quanta Fixed amounts; usually referring to fixed amounts of energy 
+absorbed or emitted by matter
+Quantum mechanics Model of the atom based on the wave nature 
+of subatomic particles, the mechanics of electron waves; also 
+called wave mechanics
+Quantum numbers Numbers that describe energy states of an 
+electron; in the Bohr model of the atom, the orbit quantum numbers 
+could be any whole number 1, 2, 3, and so on out from the nucleus; 
+in the quantum mechanics model of the atom, four quantum 
+numbers are used to describe the energy state of an electron wave
+Rad A measure of radiation received by a material (radiation 
+absorbed dose)
+Radiant energy The form of energy that can travel through space; 
+for example, visible light and other parts of the electromagnetic 
+spectrum
+Radiation The transfer of heat from a region of higher temperature 
+to a region of lower temperature by greater emission of radiant 
+energy from the region of higher temperature
+Radioactive decay constant A specific constant for a particular 
+isotope that is the ratio of the rate of nuclear disintegration per unit 
+of time to the total number of radioactive nuclei
+Radioactive decay series Series of decay reactions that begins with 
+one radioactive nucleus that decays to a second nucleus that 
+decays to a third nucleus and so on until a stable nucleus is 
+reached
+Radioactive decay The natural spontaneous disintegration or 
+decomposition of a nucleus
+Radioactivity Spontaneous emission of particles or energy from an 
+atomic nucleus as it disintegrates
+Rarefaction A part of a longitudinal wave in which the density of the 
+particles of the medium is less than the normal density is called a 
+rarefaction.
+Real image An image generated by a lens or mirror that can be
+projected onto a screen
+Rectilinear Motion The motion of a body in a straight line is called 
+rectilinear motion.
+Reflected ray A line representing direction of motion of light 
+reflected from a boundary
+Reflection The change when light, sound, or other waves bounce 
+backwards off a boundary
+Refraction A change in the direction of travel of light, sound, or 
+other waves crossing a boundary
+Relative humidity = (m/ms) x 100 where m is the actual mass of 
+water vapor present in certain volume of the air and ms is the mass 
+of water vapor required to saturate the same volume of the air at 
+the same temperature.
+Relative humidity The percentage of the amount of water vapor 
+actually present in a certain volume of the air to the amount of 
+water vapor needed to saturate it is called the relative humidity of 
+the air.
+Resonance When the frequency of an external force matches the 
+natural frequency and standing waves are set up
+Restoring force The force which tends to bring an oscillating body 
+towards its mean position whenever it is displaced from the mean 
+position is called the restoring force.
+Resultant Force A single force, which acts on a body to produce the 
+same effect in it as, done by all other forces collectively, is called 
+the resultant force.
+Retardation Negative acceleration is called retardation. In 
+retardation the velocity of a body decreases with time.
+Reverberation Apparent increase in volume caused by reflections, 
+usually arriving within 0.1 second after the original sound
+Saturated air Air in which equilibrium exists between evaporation 
+and condensation; the relative humidity is 100 percent
+Saturated solution The apparent limit to dissolving a given solid in a
+specified amount of water at a given temperature; a state of 
+equilibrium that exists between dissolving solute and solute coming 
+out of solution
+Scalar Quantity A physical quantity, which is described completely 
+by its magnitude, is called a scalar quantity.
+Scientific law A relationship between quantities, usually described 
+by an equation in the physical sciences; is more important and 
+describes a wider range of phenomena than a scientific principle
+Scientific principle A relationship between quantities concerned with 
+a specific, or narrow range of observations and behavior
+Second law of motion The acceleration of an object is directly 
+proportional to the net force acting on that object and inversely 
+proportional to the mass of the object
+Second The standard unit of time in both the metric and English 
+systems of measurement
+Secondary coil Part of a transformer, a coil of wire in which the 
+voltage of the original alternating current in the primary coil is 
+stepped up or down by way of electromagnetic induction
+Second's Pendulum A simple pendulum whose time period on the 
+surface of earth is 2 seconds is called the second's pendulum.
+Semiconductors Elements that have properties between those of a 
+metal and those of a nonmetal sometimes conducting an electric 
+current and sometimes acting like an electrical insulator depending 
+on the conditions and their purity; also called metalloids
+Shear stress Produced when two plates slide past one another or 
+by one plate sliding past another plate that is not moving
+Simple harmonic motion The vibratory motion that occurs when 
+there is a restoring force opposite to and proportional to a 
+displacement
+Simple Pendulum A heavy point mass (actually a small metallic 
+ball), suspended by a light inextensible string from a frictionless 
+rigid support is called a simple pendulum. A simple pendulum is a 
+simple machine based on the effect of gravity.
+Solenoid A cylindrical coil of wire that becomes electromagnetic 
+when a current runs through it
+Solids A phase of matter with molecules that remain close to fixed 
+equilibrium positions due to strong interactions between the 
+molecules, resulting in the characteristic definite shape and definite 
+volume of a solid
+Sonic boom Sound waves that pile up into a shock wave when a 
+source is traveling at or faster than the speed of sound
+Specific heat Each substance has its own specific heat, which is 
+defined as the amount of energy (or heat) needed to increase the 
+temperature of one gram of a substance one degree Celsius
+Speed The distance traveled by a body in one unit of time is called 
+its speed. If a body covers distance s in time t then its speed is 
+given by s / t. It is a scalar quantity and its SI unit's are m / s.
+Spin quantum number From quantum mechanics model of the 
+atom, one of four descriptions of the energy state of an electron 
+wave; this quantum number describes the spin orientation of an 
+electron relative to an external magnetic field
+Standing waves Condition where two waves of equal frequency 
+traveling in opposite directions meet and form stationary regions of 
+maximum displacement due to constructive interference and 
+stationary regions of zero displacement due to destructive 
+interference
+State of Motion When a body changes its position with respect to a 
+fixed point in its surroundings then it is said to be in a state of 
+motion. The states of rest and motion are relative to the frame of 
+reference.
+State of Rest When a body does not change its position with 
+respect to a fixed point in its surrounding, then it is said to be in a
+state of rest. The states of rest and motion are relative to the frame 
+of reference.
+Steam-point It is the temperature of steam over pure boiling water 
+under 1 atm pressure. The steam point is taken as the upper fixed 
+point (100 deg C or 212 deg F) for temperature scales.
+Superconductors Some materials in which, under certain 
+conditions, the electrical resistance approaches zero
+Super-cooled Water in the liquid phase when the temperature is 
+below the freezing point
+Supersaturated Containing more than the normal saturation amount 
+of a solute at a given temperature
+Temperature It is a numerical measure of hotness or coldness of a 
+body. According to the molecular model, it is a measure of the 
+average kinetic energy of the molecules of the body. Heat flows 
+from a body at higher temperature to a body at lower temperature.
+Tensional stress The opposite of compressional stress; occurs 
+when one part of a plate moves away from another part that does 
+not move
+Thermal Capacity The quantity of heat required to raise the 
+temperature of the whole body by one degree (1K or 1deg C) is 
+called its thermal capacity.
+Thermal Equilibrium When the two bodies in contact are at the 
+same temperature and there is no flow of heat between them, these 
+are said to be in thermal equilibrium. The common temperature of 
+the bodies in thermal equilibrium is called the equilibrium 
+temperature.
+Thermal Expansion The increase in the size of an object on heating 
+is called thermal expansion.
+Thermometer It is a device used for numerical measurement of 
+temperature. The commonly used thermometer is mercury 
+thermometer.
+Third law of motion Whenever two objects interact, the force 
+exerted on one object is equal in size and opposite in direction to 
+the force exerted on the other object; forces always occur in 
+matched pairs that are equal and opposite
+Time Period (of a wave) The time taken by a wave to travel through 
+a distance equal to its wavelength is called its time period. It is 
+denoted by T. Time period of a wave=1/frequency of the wave.
+Time Period (of an oscillation) The time taken to complete one
+oscillation is called the time period of an oscillation. The time period 
+of a pendulum does not depend upon the mass of the bob and 
+amplitude of oscillation. The time period of a pendulum is directly 
+proportional to the square root of the length and inversely 
+proportional to the square root of the acceleration due to gravity.
+Total internal reflection Condition where all light is reflected back 
+from a boundary between materials; occurs when light arrives at a 
+boundary at the critical angle or beyond
+Transverse waves A wave in which the particles of the medium 
+oscillate in a direction perpendicular of the direction of propagation 
+of wave is called the transverse wave. Water waves, light waves 
+and radio waves are examples of transverse waves.
+Trough The point of maximum negative displacement on a 
+transverse wave is called a trough.
+Ultrasonic Sound waves too high in frequency to be heard by the 
+human ear; frequencies above 20,000Hz
+Unbalanced forces When a number of forces act on a body and the 
+resultant force is not zero, then the forces are said to be
+unbalanced.
+Uniform Acceleration When the velocity of a body increases by 
+equal amounts in equal intervals of time it is said to have uniform 
+acceleration.
+Uniform Circular Motion The motion of an object in a circular path 
+with uniform speed is called uniform circular motion. Uniform
+circular motion is accelerated motion.
+Uniform Speed When a body travels equal distances in equal 
+intervals of time then it is said to have uniform speed.
+Uniform Velocity When a body travels along a straight line in 
+particular direction and covers equal distances in equal intervals of 
+time it is said to have uniform velocity.
+Universal law of gravitation Every object in the universe is attracted 
+to every other object with a force directly proportional to the product 
+of their masses and inversely proportional to the square of the 
+distance between the centers of the two masses
+Unpolarized light Light consisting of transverse waves vibrating in 
+all conceivable random directions
+Van der Wall's force General term for weak attractive intermolecular 
+forces
+Vapor The gaseous state of a substance that is normally in the 
+liquid state
+Vector Quantity A quantity, which needs both magnitude and
+direction to describe it, is called a vector quantity. Such a physical 
+quantity should also follow the vector law of addition.
+Velocity Distance traveled by a body in a particular direction per 
+unit time is called its velocity. It can also be defined as the 
+displacement of the body per unit time. It is a vector quantity. The 
+SI units of velocity are m / s.
+Vibration A back and forth motion that repeats itself
+Virtual image An image where light rays appear to originate from a 
+mirror or lens; this image cannot be projected on a screen
+Volt Unit of potential difference equivalent to joules/coulomb
+Voltage drop The electric potential difference across a resistor or 
+other part of a circuit that consumes power
+Watt Metric unit for power; equivalent to joule/sec
+Wave mechanics Alternate name for quantum mechanics derived 
+from the wavelike properties of subatomic particles
+Wave motion The movement of a disturbance produced in one part 
+of a medium to another involving the transfer of energy but not the 
+transfer of matter is called wave motion.
+Wave period The time required for two successive crests or other 
+successive parts of the wave to pass a given point
+Wave velocity The distance traveled by a wave in one second is 
+called the wave velocity. The wave velocity of a wave depends 
+upon the nature of the medium through which it passes.
+Wave (mechanical) A periodic disturbance produced in a material 
+medium due to the vibratory motion of the particles of the medium 
+is called a wave.
+Wave A disturbance or oscillation that moves through a medium
+Wavelength The distance between the two nearest points on a
+wave, which are in the same phase, is called the wavelength of the 
+wave. The distance between two adjacent crests or two adjacent 
+troughs is called its wavelength.
+Weight The force with which a body is attracted towards the center 
+of the earth is called its weight. The SI unit of weight is N. The
+gravitational units of weight are kg-wt and g-wt. The weight of a 
+body of mass m is given by mg. Its value will depend upon the 
+value of g at that place. The weight of a body is measured with a
+spring balance.
+Weightlessness The state when the apparent weight of a body 
+becomes zero is called the state of weightlessness. All objects 
+while falling freely under the action of gravity appear weightless.
+Work = Force x Displacement in the direction of the force
+Work Work is done when a force acting on a body displaces it. 
+Work is a scalar quantity. The SI unit for work is Joule.

@@ -1,0 +1,149 @@
+body {
+  background-color: dodgerblue !important;
+}
+
+table {
+  min-width: 100% !important;
+  display: none;
+}
+
+td {
+  border-top-width: 5vh;
+  text-align: center;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+button {
+  width: 100%;
+  border: none;
+  background-color: transparent;
+}
+
+.info-placement {
+  padding: 5vh;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+}
+
+.info-content {
+  background-color: #edf5e1;
+  padding-top: 3vh;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+#overlay {
+  position: fixed; /* Sit on top of the page content */
+  display: none; /* Hidden by default */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5); /* Black background with opacity */
+  z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+  cursor: pointer; /* Add a pointer on hover */
+  text-align: center;
+  padding-top: 33vh;
+  color: white;
+  font-size: 15vh;
+}
+
+#show-loading {
+  position: fixed; /* Sit on top of the page content */
+  display: none; /* Hidden by default */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+  top: 25%;
+  left: 43%;
+  right: 0;
+  bottom: 0;
+  z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+  cursor: pointer; /* Add a pointer on hover */
+}
+
+#all-model-container {
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+#all-model {
+  min-width: 50px;
+  min-height: 2vh;
+  background: linear-gradient(
+    to right,
+    rgb(0, 0, 0),
+    rgb(255, 0, 0),
+    rgb(255, 255, 0),
+    rgb(0, 255, 0),
+    rgb(0, 255, 255),
+    rgb(0, 0, 255),
+    rgb(255, 0, 255)
+  );
+}
+
+#diverse-color-context {
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.diverse-context {
+  min-height: 5vh;
+  text-align: center;
+  padding-top: 7px;
+}
+
+#questions-label {
+  font-size: 5vh;
+}
+
+#list-of-questions {
+  padding-left: 1%;
+  padding-right: 2%;
+  padding-bottom: 5vh;
+}
+
+.answers-set {
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.model-set {
+  padding-left: 2%;
+  padding-right: 2%;
+  display: none;
+}
+
+.question-placement {
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.question-placement:hover {
+  cursor: pointer;
+  color: white;
+  background-color: grey;
+}
+
+#confusion-matrix-placement {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5vh;
+  text-align: center;
+}
+
+.confusion-tile {
+  text-align: center;
+  min-height: 10vh;
+  padding-top: 3vh;
+  border: solid 3px black;
+}
+
+.data-tab-selection {
+  visibility: hidden;
+}

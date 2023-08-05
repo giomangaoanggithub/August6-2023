@@ -1,0 +1,86 @@
+body {
+  background-color: dodgerblue !important;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: "Tw Cen MT Condensed", sans-serif;
+}
+
+.display-user-style {
+  background-color: #edf5e1;
+  border: solid 1vh dodgerblue;
+  border-radius: 20px;
+  max-height: 34vh;
+  overflow-y: scroll;
+}
+
+#label-write-a-question {
+  font-size: 5vh;
+}
+
+#label-curr-question {
+  font-size: 5vh;
+}
+
+#input-curr-question {
+  padding: 1vh;
+}
+
+#input-curr-question textarea {
+  width: 85%;
+}
+
+.display-curr-question {
+  text-align: center;
+}
+
+.display-user-style::-webkit-scrollbar {
+  display: none;
+}
+
+#write-a-question {
+  text-align: center;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+}
+
+#write-a-question input {
+  width: 50%;
+}
+
+#overlay {
+  position: fixed; /* Sit on top of the page content */
+  display: none; /* Hidden by default */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5); /* Black background with opacity */
+  z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+  cursor: pointer; /* Add a pointer on hover */
+  text-align: center;
+  padding-top: 33vh;
+  color: white;
+  font-size: 15vh;
+}
+
+#show-loading {
+  position: fixed; /* Sit on top of the page content */
+  display: none; /* Hidden by default */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+  top: 25%;
+  left: 43%;
+  right: 0;
+  bottom: 0;
+  z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+  cursor: pointer; /* Add a pointer on hover */
+}
+
+.context-label {
+  position: sticky;
+  top: 0;
+  background-color: #edf5e1;
+  border-bottom: solid 5px #379683;
+}

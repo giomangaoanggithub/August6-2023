@@ -1,0 +1,196 @@
+xValues = [];
+          getx_maxcoordinates = data4[0].split(",");
+          max_coord_output = 0;
+          string_coordinates = "";
+          for (i = 0; i < getx_maxcoordinates.length; i++) {
+            if (getx_maxcoordinates[i].includes("0_")) {
+              converter = getx_maxcoordinates[i].replace("0_", "");
+              for (h = 0; h < converter; h++) {
+                string_coordinates += "0,";
+              }
+            } else {
+              string_coordinates += getx_maxcoordinates[i] + ",";
+            }
+          }
+          max_coord_output = string_coordinates.slice(0, -1).split(",").length;
+          for (i = 0; i < 15; i++) {
+            xValues.push(Math.round((max_coord_output / 15) * (i + 1)));
+          }
+          // alert(xValues);
+          // alert("data4: " + data4.length); // 4296
+          phrase_limited_coords = [];
+          for (i = 0; i < 15; i++) {
+            phrase_limited_coords.push(
+              Math.round((data4.length / 15) * (i + 1))
+            );
+          }
+          // alert("phrase_limited_coords: " + phrase_limited_coords);
+          arr_phrase_middle = [Math.round(phrase_limited_coords[0] / 2)];
+          data_phrases = [];
+          for (i = 1; i < phrase_limited_coords.length; i++) {
+            arr_phrase_middle.push(
+              phrase_limited_coords[i] - arr_phrase_middle[0]
+            );
+          }
+          // alert(arr_phrase_middle);
+          for (i = 0; i < arr_phrase_middle.length; i++) {
+            data_phrases.push(data3[arr_phrase_middle[i]]);
+          }
+          for (i = 0; i < data_phrases.length; i++) {
+            hold_phrase = data_phrases[i];
+            for (h = 0; h < data2.length; h++) {
+              if (hold_phrase.includes(data2[h]) && data2[h] != data1[h]) {
+                hold_phrase = hold_phrase.replaceAll(data2[h], data1[h]);
+              }
+            }
+            data_phrases[i] = "label: '" + hold_phrase + "',";
+          }
+          // alert("data_phrases: " + data_phrases);
+
+          raw_graph_data = [];
+          for (i = 0; i < phrase_limited_coords.length; i++) {
+            tfidf_reader = "";
+            raw_data = data4[phrase_limited_coords[i] - 1].split(",");
+
+            // alert(raw_data);
+            for (h = 0; h < raw_data.length; h++) {
+              if (raw_data[h].includes("0_")) {
+                converter = raw_data[h].replace("0_", "");
+                for (g = 0; g < converter; g++) {
+                  tfidf_reader += "0,";
+                }
+              } else {
+                tfidf_reader += raw_data[h] + ",";
+              }
+            }
+            tfidf_reader = tfidf_reader.slice(0, -1);
+            raw_graph_data.push(tfidf_reader);
+          }
+          // alert("count: " + raw_graph_data.length + " | " + raw_graph_data);
+          // alert(phrase_limited_coords);
+          // alert(raw_graph_data[0].slice(",").length);
+
+          raw_graph_data_lim = raw_graph_data[0].split(",").length;
+          graph_summaries = [];
+
+          for (i = 0; i < 15; i++) {
+            graph_summaries.push(
+              Math.round((raw_graph_data_lim / 15) * (i + 1))
+            );
+          }
+          // alert("graph_summaries: " + graph_summaries);
+          // alert("raw_graph_data: " + raw_graph_data.length);
+
+          graph_data = [];
+
+          for (i = 0; i < raw_graph_data.length; i++) {
+            curr_graph_data = raw_graph_data[i].split(",");
+            curr_graph_coord = [];
+            curr_graph_num = 0;
+            curr_summary = 0;
+            for (h = 0; h < curr_graph_data.length; h++) {
+              curr_graph_num += parseFloat(curr_graph_data[h]);
+              if (h > graph_summaries[curr_summary] - 1) {
+                // alert(h);
+                curr_graph_coord.push(curr_graph_num);
+                curr_summary += 1;
+                curr_graph_num = 0;
+              } else if (h + 1 == curr_graph_data.length) {
+                // alert("final: " + curr_graph_num);
+                curr_graph_coord.push(curr_graph_num);
+              }
+            }
+            string_coordinates = "[";
+            for (h = 0; h < curr_graph_coord.length; h++) {
+              string_coordinates += curr_graph_coord[h] + ",";
+            }
+            string_coordinates = string_coordinates.slice(0, -1);
+            string_coordinates += "],";
+            graph_data.push(string_coordinates);
+          }
+
+          // alert(graph_data[graph_data.length - 1]);
+          graph_coloration = [];
+          definition_coloration = [];
+          for (i = 0; i < graph_data.length; i++) {
+            percentage_color = ((i + 1) / graph_data.length) * 100;
+            curr_rgb = "";
+            def_rgb = "";
+            if (percentage_color < 34) {
+              curr_rgb =
+                "borderColor: 'rgb(" +
+                Math.round((percentage_color / 100) * 255) +
+                ",0,0)',";
+              def_rgb =
+                "rgb(" + Math.round((percentage_color / 100) * 255) + ",0,0)";
+            } else if (percentage_color < 67) {
+              curr_rgb =
+                "borderColor: 'rgb(255," +
+                Math.round((percentage_color / 100) * 255) +
+                ",0)',";
+              def_rgb =
+                "rgb(255," + Math.round((percentage_color / 100) * 255) + ",0)";
+            } else {
+              curr_rgb =
+                "borderColor: 'rgb(0,200," +
+                Math.round((percentage_color / 100) * 255) +
+                ")',";
+              def_rgb =
+                "rgb(0,200," + Math.round((percentage_color / 100) * 255) + ")";
+            }
+            graph_coloration.push(curr_rgb);
+            definition_coloration.push(def_rgb);
+          }
+
+          stringify_data_phrases = "";
+          for (i = 0; i < data_phrases.length; i++) {
+            hold_phrase = data_phrases[i].replace(
+              "label: '",
+              "<span style=' color: " + definition_coloration[i] + "'>"
+            );
+            stringify_data_phrases +=
+              "context_" +
+              (i + 1) +
+              ": " +
+              hold_phrase.replace("',", "</span><br>");
+          }
+          document.getElementById("stringify_data_phrases").innerHTML =
+            stringify_data_phrases;
+
+          for (i = 0; i < graph_data.length; i++) {
+            graph_data[i] =
+              "{data: " +
+              graph_data[i] +
+              graph_coloration[i] +
+              "fill: false, " +
+              "label: 'context_" +
+              (i + 1) +
+              // data_phrases[i] +
+              "',},";
+          }
+
+          // alert("graph_coloration: " + graph_coloration);
+
+          graph_output = "";
+
+          for (i = 0; i < graph_data.length; i++) {
+            graph_output += graph_data[i];
+          }
+
+          graph_code =
+            `new Chart("myChart", {
+            type: "line",
+            data: {
+              labels: xValues,
+              datasets: [
+                ` +
+            graph_output +
+            `
+              ],
+            },
+            options: {
+              legend: { display: true, position: 'right'},
+            },
+          });`;
+          // alert(graph_code);
+          eval(graph_code);

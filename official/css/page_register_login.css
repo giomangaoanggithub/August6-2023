@@ -1,0 +1,86 @@
+body {
+  background-image: url("../imgs/background-img-page-register-login.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-top: 3vh;
+  padding-left: 2vh;
+  padding-right: 2vh;
+}
+
+input {
+  font-size: 50px;
+  width: 100%;
+  border: 3px solid green;
+}
+
+.login-register-left-side {
+  max-height: 50vh;
+  position: relative;
+  /* background-color: red; */
+}
+.login-register-left-side h1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+  font-family: "Tw Cen MT Condensed", sans-serif;
+  font-weight: 900;
+  padding-left: 20%;
+  padding-top: 55vh;
+}
+
+.login-register-right-side {
+  padding-top: 2vh;
+  /* background-color: red; */
+}
+.login-register-btns {
+  font-size: 30px;
+  background-color: #3ca069;
+  color: white;
+  border: 0px;
+}
+.login-register-btns:hover {
+  transform: scale(1.5);
+  transition: 0.5s;
+}
+
+#login-register-right-side-title {
+  font-size: 75px;
+  font-family: "Tw Cen MT Condensed", sans-serif;
+}
+
+#login-register-right-side-btns button {
+  padding-left: 6vh;
+  padding-right: 6vh;
+  padding-top: 0.5vh;
+  background-color: lime;
+  border-radius: 5px;
+  border: 3px solid;
+  margin-left: 1vh;
+  margin-right: 1vh;
+  transition: 0.3s;
+}
+#login-register-right-side-btns button:hover {
+  background-color: limegreen;
+  transform: scale(1.5);
+}
+#login-register-right-side-form {
+  background-color: #5cdb95;
+  border-radius: 20px;
+  min-height: 50vh;
+  text-align: center;
+}
+#login-register-right-side-form-padding {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 10vh;
+  display: none;
+}
+#login-register-right-side-inputs {
+  padding-left: 5vh;
+  padding-right: 5vh;
+}
+#role {
+  font-size: 30px;
+}

@@ -1,0 +1,296 @@
+body {
+  background-color: DodgerBlue !important;
+}
+
+span.material-icons {
+  cursor: pointer;
+}
+
+#referencespanner_scrollable {
+  max-height: 20vh;
+  overflow-y: scroll;
+  cursor: pointer;
+}
+
+.prompt-data-insertion {
+  font-size: 50px !important;
+}
+
+.tr-questions-action:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+
+#linkspanner_scrollable {
+  max-height: 20vh;
+  overflow-y: scroll;
+}
+
+.delete-source:hover {
+  color: red;
+}
+
+.highlightable-sources:hover {
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+#rewrite-question {
+  width: 50%;
+}
+
+#green-prompt {
+  position: fixed;
+  display: none;
+  width: 90%;
+  height: 90%;
+  top: 5%;
+  left: 5%;
+  right: 10%;
+  bottom: 10%;
+  background-color: #8ee4af;
+  z-index: 2;
+  overflow-y: scroll;
+}
+
+#green-prompt button {
+  background-color: #379683;
+  color: white;
+  font-weight: 600;
+  border: 0;
+  margin-left: 3px;
+  margin-right: 3px;
+  border-radius: 5px;
+}
+
+#green-prompt button:hover {
+  background-color: #2b7163;
+  transform: scale(1.5);
+  transition: 0.3s;
+}
+
+#insert-title {
+  font-size: 50px;
+}
+
+#insert-title-div {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+#green-prompt-content {
+  width: 100%;
+  height: 100%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 5%;
+}
+
+#overlay {
+  position: fixed; /* Sit on top of the page content */
+  display: none; /* Hidden by default */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5); /* Black background with opacity */
+  z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+  cursor: pointer; /* Add a pointer on hover */
+  text-align: center;
+  padding-top: 33vh;
+  color: white;
+  font-size: 15vh;
+}
+
+#show-loading {
+  position: fixed; /* Sit on top of the page content */
+  display: none; /* Hidden by default */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+  top: 25%;
+  left: 43%;
+  right: 0;
+  bottom: 0;
+  z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+  cursor: pointer; /* Add a pointer on hover */
+}
+
+/* SCROLLBAR */
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* LEFT SIDE */
+
+#account-course-code {
+  color: transparent;
+  text-shadow: 0 0 8px #000;
+}
+
+.teacher-left-side {
+  font-family: "Tw Cen MT Condensed", sans-serif;
+  width: 100%;
+  min-height: 95vh;
+  padding: 20px;
+  background-color: #edf5e1;
+}
+
+#logout-area {
+  display: inline-flex; /* keep the inline nature of buttons */
+  align-items: flex-start;
+}
+
+#teacher-left-side-title {
+  font-size: 75px;
+}
+#teacher-left-side-title button {
+  font-size: 20px;
+}
+#teacher-left-side-input-question {
+  text-align: center;
+}
+#post-question-content {
+  width: 70%;
+  margin-bottom: 5%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+#choose-grade {
+  width: 10%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+#teacher-left-side-table {
+  padding-top: 2vh;
+}
+#teacher-left-side-table table {
+  text-align: center;
+  width: 100%;
+}
+#teacher-left-side-table th {
+  background-color: #05386b;
+  color: white;
+  font-size: 25px;
+}
+#teacher-left-side-table td {
+  font-size: 20px;
+}
+#teacher-left-side-table-scrollable {
+  position: sticky;
+  top: 0;
+  overflow-y: scroll;
+  max-height: 30vh;
+}
+#teacher-left-side-table-scrollable table {
+  width: 100;
+}
+#teacher-left-side-table-scrollable td {
+  border-top: 2px solid #383d3d;
+  border-bottom: 2px solid #383d3d;
+}
+#teacher-left-side-table-scrollable tr td:first-child {
+  text-align: justify;
+}
+
+#teacher-student-left-side-table {
+  padding-top: 2vh;
+}
+#teacher-student-left-side-table table {
+  text-align: center;
+  width: 100%;
+}
+#teacher-student-left-side-table th {
+  background-color: #05386b;
+  color: white;
+  font-size: 25px;
+}
+#teacher-student-left-side-table td {
+  font-size: 20px;
+}
+#teacher-student-left-side-table-scrollable {
+  position: sticky;
+  top: 0;
+  overflow-y: scroll;
+  max-height: 30vh;
+}
+#teacher-student-left-side-table-scrollable table {
+  width: 100;
+}
+#teacher-student-left-side-table-scrollable td {
+  border-top: 2px solid #383d3d;
+  border-bottom: 2px solid #383d3d;
+}
+#teacher-student-left-side-table-scrollable tr td:first-child {
+  text-align: justify;
+}
+
+#teacher-left-side-input-question button {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+#inserted-name {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+/* RIGHT SIDE */
+
+.teacher-right-side {
+  font-family: "Tw Cen MT Condensed", sans-serif;
+  width: 100%;
+  min-height: 95vh;
+  padding: 20px;
+  background-color: #edf5e1;
+}
+
+#teacher-right-side-table {
+  padding-top: 2vh;
+}
+#teacher-right-side-table table {
+  text-align: center;
+  width: 100%;
+}
+#teacher-right-side-table th {
+  background-color: #05386b;
+  color: white;
+  font-size: 25px;
+}
+#teacher-right-side-table td {
+  font-size: 20px;
+}
+#teacher-right-side-table-scrollable {
+  position: sticky;
+  top: 0;
+  overflow-y: scroll;
+  max-height: 83vh;
+}
+#teacher-right-side-table-scrollable table {
+  width: 100;
+}
+#teacher-right-side-table-scrollable td {
+  border-top: 2px solid #383d3d;
+  border-bottom: 2px solid #383d3d;
+}
+#teacher-right-side-table-scrollable tr td:first-child {
+  text-align: justify;
+}

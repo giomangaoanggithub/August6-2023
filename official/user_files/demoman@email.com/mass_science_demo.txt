@@ -1,0 +1,600 @@
+Acceleration It is the rate of change of the velocity of a moving body.
+Acoustics It is the experimental and theoretical science of sound and its 
+transmission.
+Alternative 
+energy
+It is the energy from sources that are renewable and ecological safe, 
+as opposed to sources that are non-renewable with toxic by-product, 
+such as coal, oil or gas and uranium.
+Altimeter It is an instrument used in aircraft that measures altitude, or height 
+above sea level.
+Ammeter It is a device used to measure current.
+Archimedes 
+principle
+It is the law stating that an object that is totally or partly submerged in 
+a fluid displaces a volume of fluid that weighs the same as the 
+apparent loss in weight of the object.
+Armature It is a part of some electric machines.
+Atmosphere It is the mixture of gases that surrounds the Earth; it is prevented from 
+escaping by the pull of the Earth’s gravity.
+Atom
+It is the smallest unit of matter that can take part in a chemical 
+reaction and which cannot be broken down chemically into anything 
+simpler.
+Astrophysics It is the study of the structure of the universe and how the objects in it 
+behave.
+Ballistics It is the science of the movement and behaviour of missiles. 
+Projectiles from guns, refuels and slings, bombs, rockets and so forth.
+Barometer It is the instrument that measures atmospheric pressure as indication 
+weather.
+Buoyancy It is the effect of the upward force (upthrust) on an objective in a fluid.
+Calibrate It describes how a measuring scale is marked.
+Calliper It is a kind of measuring instrument.
+Calorie It is a unit of energy content of food.
+Calorimeter It is an apparatus for measuring heat.
+Cantilever It is a beam securely fixed at one end and hanging fee at the other 
+hand.
+Capacitor It is a device which can store electricity.
+Capillarity It is an effect of surface tension.
+Carat It is a unit of weight for gems and precious metals. One carat is equal 
+to 200 milligrams.
+Cathode It is a negative electrode in a cell.
+Celsius
+The temperature scale in which one division or degree is taken as one 
+hundredth part of the interval between the freezing point (00C) and 
+the boiling point (1000 C) of water at standard atmospheric pressure.
+Centrifugal It is a force away from the centre that may appear to be observed 
+during motion in a curve.
+Centripetal It is the force that is necessary to keep an object moving in a circular 
+path and that is directed inwards towards the centre of rotation.
+Chain reaction It is a situation where one event cause a second, this leads to a third, 
+and so on.
+Circuit breaker It is a safety switch that automatically cuts off the current when there 
+is an overland.
+Climate It is the long-term pattern of weather in a region.
+Compass it is an instrument which helps people to find their way from one place 
+to another.
+Cooling tower It is part of a power station.
+Coulomb It is a unit of electric charge.
+Cube It has a solid shape, it has six square sides which are all the same 
+size.
+Curie It is a unit of radio-activity.
+Decibel It is a unit of measurement. It measures the loudness of sound.
+Diffusion It is the movement of atoms and molecules in gases and liquids.
+Digital It is a term meaning coded as number.
+Diode It is a term part of some electric circuits.
+Docking It is the mechanical coupling of two or more spacecraft.
+Dynamo It is a simple generator, or machine for transforming mechanical 
+energy into electrical energy.
+Echo It is a sound which is reflected.
+Eclipse it is passage of an astronomical body through the shadow of another.
+Electromagnet It is a special coil of wire.
+Element It is substance that cannot be split chemically into simpler 
+substances.
+Elastically
+It is an elastic substance which obey Hooke’s law. This means that if 
+we stretch or compress a sample, it deforms (stains) in proportion. It 
+returns to its original state when the stress ceases.
+Electron It is one of the basic particles of matter.
+Epicentre It is a point directly above the true centre of disturbing from which the 
+shock wavers of an earthquakes apparently radiate.
+Escape speed It is the speed of an object leaving the surface of a planet, such that it 
+just escapes the gravitational pull.
+Escape velocity It is the minimum velocity with which an object must be projected for 
+it to escape from the gravitational pull of a planetary body.
+Fallout
+These are the radio-active substance deposited upon the surface of 
+the earth after the explosion of a nuclear weapon of mishap at a 
+nuclear reactor.
+Fibre optics It is branch of physics dealing with the transmission of light and 
+images though glass or plastic known as optical fibres.
+Filament It is a thin, high resistance wire as in an electric light bulb.
+Filter It is a kind of apparatus which helps to separate a mixture.
+Fleming’s rules
+These are memory aids for the directions of the magnetic field, 
+current and motion in an electric generator or motor, using one’s 
+fingers.
+Fly wheel It is a heavy wheels connected to the shaft of an engine. it maintains 
+the smooth rotation of the shaft because of its high inertia.
+Forensic science It carries out test and searches for clues to help the police and 
+lawyers.
+Term Description
+Acceleration It is the rate of change of the velocity of a moving body.
+Acoustics It is the experimental and theoretical science of sound and its 
+transmission.
+Alternative 
+energy
+It is the energy from sources that are renewable and ecological safe, 
+as opposed to sources that are non-renewable with toxic by-product, 
+such as coal, oil or gas and uranium.
+Altimeter It is an instrument used in aircraft that measures altitude, or height 
+above sea level.
+Ammeter It is a device used to measure current.
+Archimedes 
+principle
+It is the law stating that an object that is totally or partly submerged in 
+a fluid displaces a volume of fluid that weighs the same as the 
+apparent loss in weight of the object.
+Armature It is a part of some electric machines.
+Atmosphere It is the mixture of gases that surrounds the Earth; it is prevented from 
+escaping by the pull of the Earth’s gravity.
+Atom
+It is the smallest unit of matter that can take part in a chemical 
+reaction and which cannot be broken down chemically into anything 
+simpler.
+Astrophysics It is the study of the structure of the universe and how the objects in it 
+behave.
+Ballistics It is the science of the movement and behaviour of missiles. 
+Projectiles from guns, refuels and slings, bombs, rockets and so forth.
+Barometer It is the instrument that measures atmospheric pressure as indication 
+weather.
+Buoyancy It is the effect of the upward force (upthrust) on an objective in a fluid.
+Calibrate It describes how a measuring scale is marked.
+Calliper It is a kind of measuring instrument.
+Calorie It is a unit of energy content of food.
+Calorimeter It is an apparatus for measuring heat.
+Cantilever It is a beam securely fixed at one end and hanging fee at the other 
+hand.
+Capacitor It is a device which can store electricity.
+Capillarity It is an effect of surface tension.
+Carat It is a unit of weight for gems and precious metals. One carat is equal
+to 200 milligrams.
+Cathode It is a negative electrode in a cell.
+Celsius
+The temperature scale in which one division or degree is taken as one 
+hundredth part of the interval between the freezing point (00C) and 
+the boiling point (1000 C) of water at standard atmospheric pressure.
+Centrifugal It is a force away from the centre that may appear to be observed 
+during motion in a curve.
+Centripetal It is the force that is necessary to keep an object moving in a circular 
+path and that is directed inwards towards the centre of rotation.
+Chain reaction It is a situation where one event cause a second, this leads to a third, 
+and so on.
+Circuit breaker It is a safety switch that automatically cuts off the current when there 
+is an overland.
+Climate It is the long-term pattern of weather in a region.
+Compass it is an instrument which helps people to find their way from one place 
+to another.
+Cooling tower It is part of a power station.
+Coulomb It is a unit of electric charge.
+Cube It has a solid shape, it has six square sides which are all the same 
+size.
+Curie It is a unit of radio-activity.
+Decibel It is a unit of measurement. It measures the loudness of sound.
+Diffusion It is the movement of atoms and molecules in gases and liquids.
+Digital It is a term meaning coded as number.
+Diode It is a term part of some electric circuits.
+Docking It is the mechanical coupling of two or more spacecraft.
+Dynamo It is a simple generator, or machine for transforming mechanical 
+energy into electrical energy.
+Echo It is a sound which is reflected.
+Eclipse it is passage of an astronomical body through the shadow of another.
+Electromagnet It is a special coil of wire.
+Element It is substance that cannot be split chemically into simpler 
+substances.
+Elastically
+It is an elastic substance which obey Hooke’s law. This means that if 
+we stretch or compress a sample, it deforms (stains) in proportion. It 
+returns to its original state when the stress ceases.
+Electron It is one of the basic particles of matter.
+Epicentre It is a point directly above the true centre of disturbing from which the 
+shock wavers of an earthquakes apparently radiate.
+Escape speed It is the speed of an object leaving the surface of a planet, such that it 
+just escapes the gravitational pull.
+Escape velocity It is the minimum velocity with which an object must be projected for 
+it to escape from the gravitational pull of a planetary body.
+Fallout
+These are the radio-active substance deposited upon the surface of 
+the earth after the explosion of a nuclear weapon of mishap at a 
+nuclear reactor.
+Fibre optics It is branch of physics dealing with the transmission of light and 
+images though glass or plastic known as optical fibres.
+Filament It is a thin, high resistance wire as in an electric light bulb.
+Filter It is a kind of apparatus which helps to separate a mixture.
+Fleming’s rules
+These are memory aids for the directions of the magnetic field, 
+current and motion in an electric generator or motor, using one’s 
+fingers.
+Fly wheel It is a heavy wheels connected to the shaft of an engine. it maintains 
+the smooth rotation of the shaft because of its high inertia.
+Forensic science It carries out test and searches for clues to help the police and 
+lawyers.
+Fossil fuel Any fuel produced by the slow decay of dead things and which, 
+therefore, is not renewable.
+Free fall It is the state in which a body is falling freely under the influence of 
+gravity, as in free-fall parachuting.
+Friction It is the force that opposes the relative motion of two bodies in 
+contact.
+Fuse It is a thin piece of wire, a part of an electric circuit.
+Galvanometer It is a sensitive instrument for detecting or measuring small electric 
+currents.
+Gas It is a state of matter which has no fixed shape or volume and always 
+fills the whole of the space in which it is contained.
+Geiger counter It is a device which measures radiation.
+Generator It is a machine that transfers kinetic energy to electricity.
+Greenhouse 
+effect
+It is a phenomenon of the Earth’s atmosphere by which solar 
+radiation, absorbed by the Earth and re-emitted from the surface, is 
+prevented from escaping by gases, mainly carbon dioxide in the air.
+Grid It is the network by which electricity is generated and distributed over 
+a region or country.
+Hectare It is a unit of measurement which measures area.
+Hertz It is a unit of measurement which measures the frequency of 
+vibrations.
+Hexagon It is a flat shape which has six sides.
+Horse power (hp)It is a practical unit of power which equal to 550 foot-pound per 
+second or 746 watts.
+Hurricane It is a powerful whirling tropical storm that measures 320 to 480 
+kilometres in diameter.
+Hydraulics It is the branch of physics that deals with the behaviour of liquids at 
+rest and in motion.
+Hydrometer It is an instrument used to measures the relatives density of liquids 
+(the density compared with that of water).
+Hydrosphere The water of the earth, ocean lakes, rivers and glaciers that cover 
+about three-fourths of the earth’s surface.
+Hygrometer It is an instrument used to measure the amount of water vapour in the 
+air.
+Hypersonic The sound waves which have frequencies above 500 megahertz.
+Hypersonic
+speed
+The speed of an object greater than about five times the speed of 
+sound in the fluid through which the object is moving.
+Inertia
+The tendency of an object to remain in a state of rest of uniform 
+motion until an external force is applied, as stated by Newton’s first 
+law of motion.
+Information 
+Technology
+It is a scientific subject, the study of how to collect, use, move, store 
+and display information.
+Term Description
+Acceleration It is the rate of change of the velocity of a moving body.
+Acoustics It is the experimental and theoretical science of sound and its 
+transmission.
+Alternative 
+energy
+It is the energy from sources that are renewable and ecological safe, 
+as opposed to sources that are non-renewable with toxic by-product, 
+such as coal, oil or gas and uranium.
+Altimeter It is an instrument used in aircraft that measures altitude, or height 
+above sea level.
+Ammeter It is a device used to measure current.
+Archimedes 
+principle
+It is the law stating that an object that is totally or partly submerged in 
+a fluid displaces a volume of fluid that weighs the same as the 
+apparent loss in weight of the object.
+Armature It is a part of some electric machines.
+Atmosphere It is the mixture of gases that surrounds the Earth; it is prevented from 
+escaping by the pull of the Earth’s gravity.
+Atom
+It is the smallest unit of matter that can take part in a chemical 
+reaction and which cannot be broken down chemically into anything 
+simpler.
+Astrophysics It is the study of the structure of the universe and how the objects in it 
+behave.
+Ballistics It is the science of the movement and behaviour of missiles. 
+Projectiles from guns, refuels and slings, bombs, rockets and so forth.
+Barometer It is the instrument that measures atmospheric pressure as indication 
+weather.
+Buoyancy It is the effect of the upward force (upthrust) on an objective in a fluid.
+Calibrate It describes how a measuring scale is marked.
+Calliper It is a kind of measuring instrument.
+Calorie It is a unit of energy content of food.
+Calorimeter It is an apparatus for measuring heat.
+Cantilever It is a beam securely fixed at one end and hanging fee at the other 
+hand.
+Capacitor It is a device which can store electricity.
+Capillarity It is an effect of surface tension.
+Carat It is a unit of weight for gems and precious metals. One carat is equal
+to 200 milligrams.
+Cathode It is a negative electrode in a cell.
+Celsius
+The temperature scale in which one division or degree is taken as one 
+hundredth part of the interval between the freezing point (00C) and 
+the boiling point (1000 C) of water at standard atmospheric pressure.
+Centrifugal It is a force away from the centre that may appear to be observed 
+during motion in a curve.
+Centripetal It is the force that is necessary to keep an object moving in a circular 
+path and that is directed inwards towards the centre of rotation.
+Chain reaction It is a situation where one event cause a second, this leads to a third, 
+and so on.
+Circuit breaker It is a safety switch that automatically cuts off the current when there 
+is an overland.
+Climate It is the long-term pattern of weather in a region.
+Compass it is an instrument which helps people to find their way from one place 
+to another.
+Cooling tower It is part of a power station.
+Coulomb It is a unit of electric charge.
+Cube It has a solid shape, it has six square sides which are all the same 
+size.
+Curie It is a unit of radio-activity.
+Decibel It is a unit of measurement. It measures the loudness of sound.
+Diffusion It is the movement of atoms and molecules in gases and liquids.
+Digital It is a term meaning coded as number.
+Diode It is a term part of some electric circuits.
+Docking It is the mechanical coupling of two or more spacecraft.
+Dynamo It is a simple generator, or machine for transforming mechanical 
+energy into electrical energy.
+Echo It is a sound which is reflected.
+Eclipse it is passage of an astronomical body through the shadow of another.
+Electromagnet It is a special coil of wire.
+Element It is substance that cannot be split chemically into simpler 
+substances.
+Elastically
+It is an elastic substance which obey Hooke’s law. This means that if 
+we stretch or compress a sample, it deforms (stains) in proportion. It 
+returns to its original state when the stress ceases.
+Electron It is one of the basic particles of matter.
+Epicentre It is a point directly above the true centre of disturbing from which the 
+shock wavers of an earthquakes apparently radiate.
+Escape speed It is the speed of an object leaving the surface of a planet, such that it 
+just escapes the gravitational pull.
+Escape velocity It is the minimum velocity with which an object must be projected for 
+it to escape from the gravitational pull of a planetary body.
+Fallout
+These are the radio-active substance deposited upon the surface of 
+the earth after the explosion of a nuclear weapon of mishap at a 
+nuclear reactor.
+Fibre optics It is branch of physics dealing with the transmission of light and 
+images though glass or plastic known as optical fibres.
+Filament It is a thin, high resistance wire as in an electric light bulb.
+Filter It is a kind of apparatus which helps to separate a mixture.
+Fleming’s rules
+These are memory aids for the directions of the magnetic field, 
+current and motion in an electric generator or motor, using one’s 
+fingers.
+Fly wheel It is a heavy wheels connected to the shaft of an engine. it maintains 
+the smooth rotation of the shaft because of its high inertia.
+Forensic science It carries out test and searches for clues to help the police and 
+lawyers.
+Fossil fuel Any fuel produced by the slow decay of dead things and which, 
+therefore, is not renewable.
+Free fall It is the state in which a body is falling freely under the influence of 
+gravity, as in free-fall parachuting.
+Friction It is the force that opposes the relative motion of two bodies in 
+contact.
+Fuse It is a thin piece of wire, a part of an electric circuit.
+Galvanometer It is a sensitive instrument for detecting or measuring small electric 
+currents.
+Gas It is a state of matter which has no fixed shape or volume and always 
+fills the whole of the space in which it is contained.
+Geiger counter It is a device which measures radiation.
+Generator It is a machine that transfers kinetic energy to electricity.
+Greenhouse 
+effect
+It is a phenomenon of the Earth’s atmosphere by which solar 
+radiation, absorbed by the Earth and re-emitted from the surface, is 
+prevented from escaping by gases, mainly carbon dioxide in the air.
+Grid It is the network by which electricity is generated and distributed over 
+a region or country.
+Hectare It is a unit of measurement which measures area.
+Hertz It is a unit of measurement which measures the frequency of 
+vibrations.
+Hexagon It is a flat shape which has six sides.
+Horse power (hp)It is a practical unit of power which equal to 550 foot-pound per 
+second or 746 watts.
+Hurricane It is a powerful whirling tropical storm that measures 320 to 480 
+kilometres in diameter.
+Hydraulics It is the branch of physics that deals with the behaviour of liquids at 
+rest and in motion.
+Hydrometer It is an instrument used to measures the relatives density of liquids 
+(the density compared with that of water).
+Hydrosphere The water of the earth, ocean lakes, rivers and glaciers that cover 
+about three-fourths of the earth’s surface.
+Hygrometer It is an instrument used to measure the amount of water vapour in the 
+air.
+Hypersonic The sound waves which have frequencies above 500 megahertz.
+Hypersonic 
+speed
+The speed of an object greater than about five times the speed of 
+sound in the fluid through which the object is moving.
+Inertia
+The tendency of an object to remain in a state of rest of uniform 
+motion until an external force is applied, as stated by Newton’s first 
+law of motion.
+Information 
+Technology
+It is a scientific subject, the study of how to collect, use, move, store 
+and display information.
+Insulation It is the process by which the passage of electricity, heat or sound is 
+prevented through a material.
+Imaging It is a technique by which electronics data collected by various means 
+is converted into visual image by use of computers.
+Isotopes These are atoms of an element having the same atomic number but 
+different atomic weights.
+Jet lag
+It is a state of feeling unwell and exhausted experienced by air 
+travellers when they cross several time zones in a relatively short 
+time.
+Kinetic energy It is a form of energy possessed by moving bodies. It is contrasted 
+with potential energy.
+Knot It is a unit for measuring ship’s speed.
+Laser
+The name stands for Light Amplification by stimulated Emission of 
+Radiation. A device able to produce an intension narrow beam of 
+radiation.
+Latent heat It is the heat required to change the state of a substance (for example, 
+from solid to liquid) without changing its temperature.
+Latitude It is the distance of a point on the earth’s surface from the equator.
+Lighting 
+conductor
+It is a conductor of electricity installed in a structure to save it from 
+damage.
+Light-year
+It is a unit of distance used in astronomy. It is defined as the distance 
+light travels through space in one year. Light travels at 300,000 km per 
+second.
+Mach number
+It is a measure of the speed of an object, specially an aircraft. If the 
+Mach number exceeds one, the object is said to be moving at a 
+supersonic speed.
+Manometer An instrument for measuring the pressure of liquids (including human 
+blood pressure) or gases.
+Mechanics It is the study of movement of material bodies.
+Meridian It is an imaginary circle passing through both the poles of a celestial 
+sphere, It is also the imaginary plane passing through the Earth’s axis.
+Meteorology It is the study of climate and weather patterns, with the aim of trying 
+to explain, predict and change them.
+Mica It is a group of silicate minerals having layered structure.
+Microscope It is an instrument for magnification with high resolution for detail.
+Mirage It is the illusion seen in hot climate of water on the horizon, or of 
+distant objects being enlarged.
+Missile It is guided unmanned weapon which is usually propelled by a rocked.
+Moderator It is a substance that is used to slow down neutrons emitted in a 
+nuclear fission reaction.
+Molecule it is a group of one or more atoms bonded together, a basic participle 
+of matter.
+Momentum It is a property dependent on the mass and velocity of a body.
+Nautical mile It is a unit of measurement, it measures distances across seas and 
+oceans.
+Nuclear fission it is the process whereby an atomic nucleus breaks up with the 
+emissions of several neutrons.
+Nuclear reactor
+It is the central component of a nuclear power station that generated 
+nuclear energy under controlled conditions for use as a source of 
+electrical power.
+Nuclear waste It is the radio-active and toxic by-products of the nuclear-energy and 
+nuclear-weapons industries.
+Ohm The SI unit of electrical resistance, named after Georg Simon Ohm.
+Opaque It described a substance which does not allow light to pass through it.
+Optics It is the study of nature and properties of light.
+Oscillation One completer to and-fro movement of a vibrating object or system.
+Periscope It is an optical instrument designed for observation from a concealed 
+position such as from a submerged submarine.
+Photon It is a particle which has been invented by scientist to explain how 
+light behaves.
+Physics
+It is the branch of science concerned with the ultimate laws that 
+govern the structure of the universe and the forms of matter and 
+energy and their interactions.
+Piston It is a part of a machine, it is fitted inside a cylinder and moves back 
+wards and forwards.
+Plutonium It is a radioactive metallic element (symbol Pu) of proton number 94 
+and relative atomic mass 239.13.
+Pole It is a region of a magnetic field where the force is strongest. Most 
+bar magnets have two poles.
+Pollution The effect on the surface of the Earth of poisonous or harmful 
+substances that makes life less safe or pleasant for living organisms.
+Potential energy It is stored energy.
+Primary colour A primary colour is one of there different colours of light red. Green 
+and blue colours.
+Prism
+In optics, a triangular block of transport material (plastic glass, silica) 
+commonly used to, bend’ a ray of light or split a beam into its special 
+colours.
+Projectile A particle that travels with both horizontal and vertical motion in the 
+Earth’s gravitational field.
+Quantum 
+mechanics
+It is the part of physics that deals with radiation and the movement of 
+atomic particles.
+Rader
+An acronym for radio direction and ranging device for locating objects 
+in space, direction finding, and navigation by means of transmitted 
+and reflected high-frequency radio waves.
+Radiant heat It is energy that is radiated by all warm or hot bodies.
+Radiation It is a kind of energy which is moving.
+Radioactivity It is the spontaneous alteration, or decay, of the nuclei of radioactive 
+atoms, accompanied by the emission of radiation.
+Radiocarbon 
+dating
+It is a method of dating organic materials (for example, bone or 
+wood), used in archaeology.
+Rainbow It is an arch in the sky displaying the colours of the spectrum formed 
+by the refraction and reflection of the Sun’s rays through rain of mist.
+Reflection The throwing back or deflection of waves, such as light or sound 
+waves, when they hit a surface.
+Refraction It is the bending of waves of light, heat or sound when is passes from 
+one medium to another.
+Relativity theory A theory that described matter, space and time and how they relate to 
+each other.
+Retine It is the inner layer at the back of the vertebrate eye, which contains 
+light-sensitive cells and nerve fibres.
+Robot It is a kind of machine that can do jobs without human help.
+Rocket It is a projectile driven by the reaction of gases produced by a fastburning fuel.
+Satellite It is a kind of spacecraft.
+Satellite dish It is a kind of aerial.
+Seismograph It is an instruments that amplifies and record small movements of the 
+ground caused by earthquakes or explosions.
+Semiconductor Crystalline material with an electrical conductivity between that of 
+metals (good) and insulators (poor).
+Sensor It is a device that takes in and reacts to some kind of input energy and 
+out puts a related electrical signal.
+Shaft It is a rod which rotates and is connected to the axis of a wheel or a 
+gear.
+Short circuit
+It is the accidental or deliberate joining of two parts of an electric 
+circuit by a conductor of less resistance that allows an excessive 
+current to flow, usually blowing a fuse.
+Silicon chip It is a kind of crystal.
+Siphon It is a curved pipe or tube and is used to move liquids from one 
+container to another.
+Solder It is an alloy and is used to join together wires and electronics 
+components.
+Sonar It is a device which is fitted to ship and submarines and it is used to 
+find objects under water.
+Spectrometer It is an instrument used to study the composition of light emitted by a 
+source.
+Speed of light It is the speed at which light travels through emply space. Its value 
+is 299,792, 458 metres per second.
+Speed of sound
+It is the speed at which sound travels through a medium, such as air 
+on water. In air at a temperature of 00c, the speed of sound is 331 
+metres per second.
+Spark A high energy discharge through a gas that lasts for a very short time, 
+it is accompanied by a flash of light and a sharp crackling noise.
+Solar energy It is energy derived from the sun’s radiation.
+Solstice
+One of the two times of each year when the sun reaches its maximum 
+northerly or southerly position among the stars. In the northern 
+hemisphere, the summer solstice on June 21, is the longest day of the 
+year and winter solstice on December 21 is the shortest day of the 
+year.
+Sound barrier It is the point at which an aircraft attains the speed of sound.
+Superconductor It is a substance which has no electrical resistance.
+Supersonic It means faster that the speed of sound.
+Telescope It is a device for collecting and focusing light and other forms of 
+electromagnetic radiation form distant objects.
+Thermometer It is a device used measures temperature of hotness.
+Thermostat It is a device used to keep the temperature in some place with in a set 
+range.
+Tide It is the rise and fall of sea level due to the gravitational forces of the 
+Moon and Sun.
+Transformer It is a device whose normal use is to transfer electrical energy with a 
+change in voltage between input and output.
+Transistor It is a device for controlling the flow of minute electric current. It 
+serves as a rectifier or as an amplifier of current.
+Transponder
+It is a transmitter cum-receiver which receive radio signals and 
+retransmits them automatically often at a different frequency after 
+amplification.
+Troposphere It is the lowest part, of the earth’s atmosphere in which most of the 
+weather phenomena occur.
+UFO It is an unidentified Flying Object.
+Ultrasonics It is the study and application of the sound and vibration produced by 
+ultrasonic pressure waves.
+Uranium Radioactive metallic element (system U) of proton number 92 and 
+relatives atomic mass 238.029.
+Vaporization It is the change of state of a substance from liquid to vapour.
+Velocity It is the speed of an object in a given direction, or the rate of change 
+of an object’s displacement.
+VHF It is very High frequency referring to radio waves that have very short 
+wavelengths.
+Viscosity Resistance of fluids (liquids and gases) to flow. It is caused by friction 
+between the fluid molecules moving against each other.
+Voltage It is the electrical pressure or potential difference measured in volts.
+Voltmeter It is an electrical instrument which measures voltage.
+Vortex It is intense circular or whirling motion of a fluid.
+Warhead
+It is the part of a missile, usually placed at the tip. containing a 
+chemical explosive or incendiary charge and a mechanism for setting 
+it off. It may also carry a nuclear device.
+Water cycle
+It is the continuous movement water between the ocean, atmosphere 
+and the land. Water from the ocean evaporates by Sun’s heat and 
+enters the atmosphere as water vapour. The water vapour condenses 
+and comes down as rain from where it flows through streams and 
+rivers into the ocean, thus completing the cycle.
+Watt It is the unit or power, the rate of energy transfer
